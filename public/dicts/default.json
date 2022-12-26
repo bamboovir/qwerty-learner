@@ -1,0 +1,2276 @@
+[
+    {
+        "name": "associative",
+        "trans": [
+            "\u7ed3\u5408\u5f8b"
+        ]
+    },
+    {
+        "name": "distributive",
+        "trans": [
+            "\u5206\u914d\u5f8b"
+        ]
+    },
+    {
+        "name": "commutative",
+        "trans": [
+            "\u4ea4\u6362\u5f8b"
+        ]
+    },
+    {
+        "name": "treated",
+        "trans": [
+            "\u88ab\u5bf9\u5f85"
+        ]
+    },
+    {
+        "name": "consecutive",
+        "trans": [
+            "\u8fde\u7eed\u7684"
+        ]
+    },
+    {
+        "name": "impartial",
+        "trans": [
+            "\u516c\u6b63"
+        ]
+    },
+    {
+        "name": "invariants",
+        "trans": [
+            "\u4e0d\u53d8\u5f0f"
+        ]
+    },
+    {
+        "name": "tunnel",
+        "trans": [
+            "\u96a7\u9053"
+        ]
+    },
+    {
+        "name": "pivot",
+        "trans": [
+            "\u4e3b\u5143"
+        ]
+    },
+    {
+        "name": "tutor",
+        "trans": [
+            "\u5bfc\u5e08"
+        ]
+    },
+    {
+        "name": "modulo",
+        "trans": [
+            "\u6a21\u6570"
+        ]
+    },
+    {
+        "name": "orthogonal",
+        "trans": [
+            "\u6b63\u4ea4"
+        ]
+    },
+    {
+        "name": "logarithmic",
+        "trans": [
+            "\u5bf9\u6570"
+        ]
+    },
+    {
+        "name": "amortization",
+        "trans": [
+            "\u644a\u9500"
+        ]
+    },
+    {
+        "name": "numerator",
+        "trans": [
+            "\u5206\u5b50"
+        ]
+    },
+    {
+        "name": "denominator",
+        "trans": [
+            "\u5206\u6bcd"
+        ]
+    },
+    {
+        "name": "coherent",
+        "trans": [
+            "\u8fde\u8d2f\uff0c\u901a\u7545\uff0c\u76f8\u5e72"
+        ]
+    },
+    {
+        "name": "autonomous",
+        "trans": [
+            "\u81ea\u4e3b\u6027, \u72ec\u7acb\u5b58\u5728\u7684"
+        ]
+    },
+    {
+        "name": "heterogeneous",
+        "trans": [
+            "\u5f02\u6784"
+        ]
+    },
+    {
+        "name": "consistency",
+        "trans": [
+            "\u4e00\u81f4\u6027"
+        ]
+    },
+    {
+        "name": "transparency",
+        "trans": [
+            "\u900f\u660e"
+        ]
+    },
+    {
+        "name": "guarantees",
+        "trans": [
+            "\u4fdd\u8bc1"
+        ]
+    },
+    {
+        "name": "metrics",
+        "trans": [
+            "\u6307\u6807"
+        ]
+    },
+    {
+        "name": "tiered",
+        "trans": [
+            "\u5206\u5c42"
+        ]
+    },
+    {
+        "name": "arbitrary",
+        "trans": [
+            "\u968f\u610f\u7684"
+        ]
+    },
+    {
+        "name": "drift",
+        "trans": [
+            "\u6f02\u79fb"
+        ]
+    },
+    {
+        "name": "completeness",
+        "trans": [
+            "\u5b8c\u6574\u6027"
+        ]
+    },
+    {
+        "name": "accuracy",
+        "trans": [
+            "\u51c6\u786e\u6027"
+        ]
+    },
+    {
+        "name": "brokerage",
+        "trans": [
+            "\u7ecf\u7eaa"
+        ]
+    },
+    {
+        "name": "jitter",
+        "trans": [
+            "\u6296\u52a8"
+        ]
+    },
+    {
+        "name": "probabilistic",
+        "trans": [
+            "\u6982\u7387\u6027\u7684"
+        ]
+    },
+    {
+        "name": "fascinated",
+        "trans": [
+            "\u7740\u8ff7"
+        ]
+    },
+    {
+        "name": "skew",
+        "trans": [
+            "\u6b6a\u659c"
+        ]
+    },
+    {
+        "name": "derivative",
+        "trans": [
+            "\u884d\u751f\u7269"
+        ]
+    },
+    {
+        "name": "distinction",
+        "trans": [
+            "\u533a\u522b"
+        ]
+    },
+    {
+        "name": "distinguished",
+        "trans": [
+            "\u6770\u51fa\u7684"
+        ]
+    },
+    {
+        "name": "equivalent",
+        "trans": [
+            "\u76f8\u7b49\u7684"
+        ]
+    },
+    {
+        "name": "analogy",
+        "trans": [
+            "\u6bd4\u55bb"
+        ]
+    },
+    {
+        "name": "rough",
+        "trans": [
+            "\u7c97\u7cd9\u7684"
+        ]
+    },
+    {
+        "name": "auxilliary",
+        "trans": [
+            "\u8f85\u52a9\u7684"
+        ]
+    },
+    {
+        "name": "idiomatic",
+        "trans": [
+            "\u60ef\u7528\u8bed"
+        ]
+    },
+    {
+        "name": "theoretical",
+        "trans": [
+            "\u7406\u8bba\u7684"
+        ]
+    },
+    {
+        "name": "realise",
+        "trans": [
+            "\u610f\u8bc6\u5230"
+        ]
+    },
+    {
+        "name": "tolerate",
+        "trans": [
+            "\u5bb9\u5fcd"
+        ]
+    },
+    {
+        "name": "xtreme",
+        "trans": [
+            "\u6781\u9650"
+        ]
+    },
+    {
+        "name": "occasionally",
+        "trans": [
+            "\u5076\u5c14"
+        ]
+    },
+    {
+        "name": "sensible",
+        "trans": [
+            "\u660e\u667a\u7684"
+        ]
+    },
+    {
+        "name": "reflexivity",
+        "trans": [
+            "\u81ea\u53cd\u7684"
+        ]
+    },
+    {
+        "name": "transitivity",
+        "trans": [
+            "\u53ef\u4f20\u9012\u7684"
+        ]
+    },
+    {
+        "name": "lamport",
+        "trans": [
+            "\u4eba\u540d"
+        ]
+    },
+    {
+        "name": "causal",
+        "trans": [
+            "\u56e0\u679c"
+        ]
+    },
+    {
+        "name": "superImpose",
+        "trans": [
+            "\u53e0\u52a0"
+        ]
+    },
+    {
+        "name": "articulate",
+        "trans": [
+            "\u660e\u767d\u5730\u8bf4"
+        ]
+    },
+    {
+        "name": "intension",
+        "trans": [
+            "\u5185\u6db5"
+        ]
+    },
+    {
+        "name": "extension",
+        "trans": [
+            "\u5ef6\u671f"
+        ]
+    },
+    {
+        "name": "arity",
+        "trans": [
+            "\u6570\u91cf"
+        ]
+    },
+    {
+        "name": "cardinality",
+        "trans": [
+            "\u57fa\u6570"
+        ]
+    },
+    {
+        "name": "referential",
+        "trans": [
+            "\u53c2\u8003"
+        ]
+    },
+    {
+        "name": "integrity",
+        "trans": [
+            "\u6b63\u76f4"
+        ]
+    },
+    {
+        "name": "manipulation",
+        "trans": [
+            "\u64cd\u7eb5"
+        ]
+    },
+    {
+        "name": "alter",
+        "trans": [
+            "\u6539\u53d8"
+        ]
+    },
+    {
+        "name": "indicate",
+        "trans": [
+            "\u8868\u793a"
+        ]
+    },
+    {
+        "name": "clause",
+        "trans": [
+            "\u6761\u6b3e"
+        ]
+    },
+    {
+        "name": "comparison",
+        "trans": [
+            "\u6bd4\u8f83"
+        ]
+    },
+    {
+        "name": "arithmetic",
+        "trans": [
+            "\u7b97\u672f"
+        ]
+    },
+    {
+        "name": "correlation",
+        "trans": [
+            "\u76f8\u5173\u6027"
+        ]
+    },
+    {
+        "name": "equijoin",
+        "trans": [
+            "\u7b49\u503c\u8fde\u63a5"
+        ]
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "\u81ea\u7136"
+        ]
+    },
+    {
+        "name": "inapplicable",
+        "trans": [
+            "\u4e0d\u9002\u7528"
+        ]
+    },
+    {
+        "name": "elimination",
+        "trans": [
+            "\u6d88\u9664"
+        ]
+    },
+    {
+        "name": "aggregations",
+        "trans": [
+            "\u805a\u5408"
+        ]
+    },
+    {
+        "name": "collapsing",
+        "trans": [
+            "\u5012\u584c"
+        ]
+    },
+    {
+        "name": "contrast",
+        "trans": [
+            "\u5bf9\u6bd4"
+        ]
+    },
+    {
+        "name": "appropriate",
+        "trans": [
+            "\u5408\u9002\u7684"
+        ]
+    },
+    {
+        "name": "reveal",
+        "trans": [
+            "\u63ed\u793a"
+        ]
+    },
+    {
+        "name": "incredibly",
+        "trans": [
+            "\u96be\u4ee5\u7f6e\u4fe1"
+        ]
+    },
+    {
+        "name": "intensional",
+        "trans": [
+            "\u5185\u6db5\u7684"
+        ]
+    },
+    {
+        "name": "propagate",
+        "trans": [
+            "\u4f20\u64ad"
+        ]
+    },
+    {
+        "name": "halt",
+        "trans": [
+            "\u505c\u6b62"
+        ]
+    },
+    {
+        "name": "cease",
+        "trans": [
+            "\u505c\u6b62"
+        ]
+    },
+    {
+        "name": "cascade",
+        "trans": [
+            "\u7ea7\u8054"
+        ]
+    },
+    {
+        "name": "manufacturer",
+        "trans": [
+            "\u5236\u9020\u5546"
+        ]
+    },
+    {
+        "name": "unary",
+        "trans": [
+            "\u4e00\u5143"
+        ]
+    },
+    {
+        "name": "conceptual",
+        "trans": [
+            "\u6982\u5ff5\u7684"
+        ]
+    },
+    {
+        "name": "refinement",
+        "trans": [
+            "\u7ec6\u5316"
+        ]
+    },
+    {
+        "name": "anomalies",
+        "trans": [
+            "\u5f02\u5e38"
+        ]
+    },
+    {
+        "name": "tuning",
+        "trans": [
+            "\u8c03\u97f3"
+        ]
+    },
+    {
+        "name": "cardinality",
+        "trans": [
+            "\u57fa\u6570"
+        ]
+    },
+    {
+        "name": "subordinate",
+        "trans": [
+            "\u4e0b\u5c5e"
+        ]
+    },
+    {
+        "name": "affiliation",
+        "trans": [
+            "\u8054\u7cfb"
+        ]
+    },
+    {
+        "name": "redundancy",
+        "trans": [
+            "\u5197\u4f59"
+        ]
+    },
+    {
+        "name": "preserving",
+        "trans": [
+            "\u4fdd\u5b58"
+        ]
+    },
+    {
+        "name": "obeying",
+        "trans": [
+            "\u670d\u4ece"
+        ]
+    },
+    {
+        "name": "decomposition",
+        "trans": [
+            "\u5206\u89e3"
+        ]
+    },
+    {
+        "name": "anomalies",
+        "trans": [
+            "\u5f02\u5e38"
+        ]
+    },
+    {
+        "name": "trivial",
+        "trans": [
+            "\u7410\u788e\u7684"
+        ]
+    },
+    {
+        "name": "synonyms",
+        "trans": [
+            "\u540c\u4e49\u8bcd"
+        ]
+    },
+    {
+        "name": "antonyms",
+        "trans": [
+            "\u53cd\u4e49\u8bcd"
+        ]
+    },
+    {
+        "name": "comprise",
+        "trans": [
+            "\u5305\u62ec"
+        ]
+    },
+    {
+        "name": "heuristic",
+        "trans": [
+            "\u542f\u53d1\u5f0f"
+        ]
+    },
+    {
+        "name": "exaction",
+        "trans": [
+            "\u82db\u6c42"
+        ]
+    },
+    {
+        "name": "phantom",
+        "trans": [
+            "\u5e7b\u8bfb"
+        ]
+    },
+    {
+        "name": "precedence",
+        "trans": [
+            "\u4f18\u5148\u7ea7"
+        ]
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "\u79cd\u7c7b"
+        ]
+    },
+    {
+        "name": "velocity",
+        "trans": [
+            "\u901f\u5ea6"
+        ]
+    },
+    {
+        "name": "veracity",
+        "trans": [
+            "\u771f\u5b9e\u6027"
+        ]
+    },
+    {
+        "name": "time complexity",
+        "trans": [
+            "\u65f6\u95f4\u590d\u6742\u5ea6"
+        ]
+    },
+    {
+        "name": "space complexity",
+        "trans": [
+            "\u7a7a\u95f4\u590d\u6742\u5ea6"
+        ]
+    },
+    {
+        "name": "dijkstra",
+        "trans": [
+            "\u4eba\u540d"
+        ]
+    },
+    {
+        "name": "traverse",
+        "trans": [
+            "\u904d\u5386"
+        ]
+    },
+    {
+        "name": "symmetric",
+        "trans": [
+            "\u5bf9\u79f0"
+        ]
+    },
+    {
+        "name": "iterative",
+        "trans": [
+            "\u8fed\u4ee3"
+        ]
+    },
+    {
+        "name": "recursive",
+        "trans": [
+            "\u9012\u5f52"
+        ]
+    },
+    {
+        "name": "ascending",
+        "trans": [
+            "\u5347\u5e8f"
+        ]
+    },
+    {
+        "name": "descending",
+        "trans": [
+            "\u964d\u5e8f"
+        ]
+    },
+    {
+        "name": "divide and conquer",
+        "trans": [
+            "\u5206\u6cbb"
+        ]
+    },
+    {
+        "name": "truncate",
+        "trans": [
+            "\u622a\u77ed"
+        ]
+    },
+    {
+        "name": "permutations",
+        "trans": [
+            "\u6392\u5217"
+        ]
+    },
+    {
+        "name": "combinations",
+        "trans": [
+            "\u7ec4\u5408"
+        ]
+    },
+    {
+        "name": "constraints",
+        "trans": [
+            "\u7ea6\u675f"
+        ]
+    },
+    {
+        "name": "backtracking",
+        "trans": [
+            "\u56de\u6eaf"
+        ]
+    },
+    {
+        "name": "potential",
+        "trans": [
+            "\u6f5c\u5728"
+        ]
+    },
+    {
+        "name": "candidates",
+        "trans": [
+            "\u5019\u9009\u8005"
+        ]
+    },
+    {
+        "name": "morris",
+        "trans": [
+            "\u4eba\u540d"
+        ]
+    },
+    {
+        "name": "traversal",
+        "trans": [
+            "\u904d\u5386"
+        ]
+    },
+    {
+        "name": "tuple",
+        "trans": [
+            "\u5143\u7ec4"
+        ]
+    },
+    {
+        "name": "semantics",
+        "trans": [
+            "\u8bed\u4e49"
+        ]
+    },
+    {
+        "name": "lexical",
+        "trans": [
+            "\u8bcd\u6cd5"
+        ]
+    },
+    {
+        "name": "escapes",
+        "trans": [
+            "\u8f6c\u4e49"
+        ]
+    },
+    {
+        "name": "comma",
+        "trans": [
+            "\u9017\u53f7"
+        ]
+    },
+    {
+        "name": "period",
+        "trans": [
+            "\u53e5\u53f7"
+        ]
+    },
+    {
+        "name": "asterisk",
+        "trans": [
+            "\u661f\u53f7"
+        ]
+    },
+    {
+        "name": "brackets",
+        "trans": [
+            "\u65b9\u62ec\u53f7"
+        ]
+    },
+    {
+        "name": "parentheses",
+        "trans": [
+            "\u5706\u62ec\u53f7"
+        ]
+    },
+    {
+        "name": "semicolon",
+        "trans": [
+            "\u5206\u53f7"
+        ]
+    },
+    {
+        "name": "dash",
+        "trans": [
+            "\u7834\u6298\u53f7"
+        ]
+    },
+    {
+        "name": "coroutine",
+        "trans": [
+            "\u534f\u7a0b"
+        ]
+    },
+    {
+        "name": "synchronize",
+        "trans": [
+            "\u540c\u6b65"
+        ]
+    },
+    {
+        "name": "asynchronous",
+        "trans": [
+            "\u5f02\u6b65"
+        ]
+    },
+    {
+        "name": "volatile",
+        "trans": [
+            "\u6613\u53d8"
+        ]
+    },
+    {
+        "name": "transient",
+        "trans": [
+            "\u77ac\u6001"
+        ]
+    },
+    {
+        "name": "literals",
+        "trans": [
+            "\u5b57\u9762\u91cf"
+        ]
+    },
+    {
+        "name": "modifier",
+        "trans": [
+            "\u4fee\u9970\u7b26"
+        ]
+    },
+    {
+        "name": "identifies",
+        "trans": [
+            "\u6307\u79f0"
+        ]
+    },
+    {
+        "name": "paradigm",
+        "trans": [
+            "\u8303\u5f0f"
+        ]
+    },
+    {
+        "name": "primitive",
+        "trans": [
+            "\u539f\u8bed"
+        ]
+    },
+    {
+        "name": "polymorphism",
+        "trans": [
+            "\u591a\u6001"
+        ]
+    },
+    {
+        "name": "inheritance",
+        "trans": [
+            "\u7ee7\u627f"
+        ]
+    },
+    {
+        "name": "encapsulation",
+        "trans": [
+            "\u5c01\u88c5"
+        ]
+    },
+    {
+        "name": "duplicate",
+        "trans": [
+            "\u91cd\u590d"
+        ]
+    },
+    {
+        "name": "deprecated",
+        "trans": [
+            "\u5e9f\u5f03"
+        ]
+    },
+    {
+        "name": "concept",
+        "trans": [
+            "\u6982\u5ff5"
+        ]
+    },
+    {
+        "name": "generic",
+        "trans": [
+            "\u6cdb\u578b"
+        ]
+    },
+    {
+        "name": "thread",
+        "trans": [
+            "\u7ebf\u7a0b"
+        ]
+    },
+    {
+        "name": "erasure",
+        "trans": [
+            "\u64e6\u9664"
+        ]
+    },
+    {
+        "name": "assigned",
+        "trans": [
+            "\u5206\u914d"
+        ]
+    },
+    {
+        "name": "implicitly",
+        "trans": [
+            "\u9690\u5f0f"
+        ]
+    },
+    {
+        "name": "explicitly",
+        "trans": [
+            "\u663e\u5f0f"
+        ]
+    },
+    {
+        "name": "anonymous",
+        "trans": [
+            "\u533f\u540d"
+        ]
+    },
+    {
+        "name": "yield",
+        "trans": [
+            "\u8ba9\u8def"
+        ]
+    },
+    {
+        "name": "eagerly",
+        "trans": [
+            "\u6025\u5207\u6027"
+        ]
+    },
+    {
+        "name": "lazily",
+        "trans": [
+            "\u60f0\u6027"
+        ]
+    },
+    {
+        "name": "undue",
+        "trans": [
+            "\u8fc7\u5ea6"
+        ]
+    },
+    {
+        "name": "penalty",
+        "trans": [
+            "\u60e9\u7f5a"
+        ]
+    },
+    {
+        "name": "disambiguated",
+        "trans": [
+            "\u6d88\u6b67"
+        ]
+    },
+    {
+        "name": "ambiguous",
+        "trans": [
+            "\u6b67\u4e49"
+        ]
+    },
+    {
+        "name": "declaration",
+        "trans": [
+            "\u58f0\u660e"
+        ]
+    },
+    {
+        "name": "serialize",
+        "trans": [
+            "\u5e8f\u5217\u5316"
+        ]
+    },
+    {
+        "name": "marshal",
+        "trans": [
+            "\u5143\u5e05"
+        ]
+    },
+    {
+        "name": "persistent",
+        "trans": [
+            "\u6301\u4e45\u5316"
+        ]
+    },
+    {
+        "name": "concurrent",
+        "trans": [
+            "\u5e76\u884c"
+        ]
+    },
+    {
+        "name": "parallel",
+        "trans": [
+            "\u5e73\u884c"
+        ]
+    },
+    {
+        "name": "contract",
+        "trans": [
+            "\u5951\u7ea6"
+        ]
+    },
+    {
+        "name": "expires",
+        "trans": [
+            "\u8fc7\u671f"
+        ]
+    },
+    {
+        "name": "cluster",
+        "trans": [
+            "\u7c07"
+        ]
+    },
+    {
+        "name": "transaction",
+        "trans": [
+            "\u4e8b\u52a1"
+        ]
+    },
+    {
+        "name": "atomicity",
+        "trans": [
+            "\u539f\u5b50\u6027"
+        ]
+    },
+    {
+        "name": "consistency",
+        "trans": [
+            "\u4e00\u81f4\u6027"
+        ]
+    },
+    {
+        "name": "isolation",
+        "trans": [
+            "\u9694\u79bb\u6027"
+        ]
+    },
+    {
+        "name": "durability",
+        "trans": [
+            "\u6301\u4e45\u6027"
+        ]
+    },
+    {
+        "name": "delivery",
+        "trans": [
+            "\u5206\u53d1"
+        ]
+    },
+    {
+        "name": "route",
+        "trans": [
+            "\u8def\u7531"
+        ]
+    },
+    {
+        "name": "hop",
+        "trans": [
+            "\u8df3"
+        ]
+    },
+    {
+        "name": "optimization",
+        "trans": [
+            "\u4f18\u5316"
+        ]
+    },
+    {
+        "name": "performance",
+        "trans": [
+            "\u6027\u80fd"
+        ]
+    },
+    {
+        "name": "bottleneck",
+        "trans": [
+            "\u74f6\u9888"
+        ]
+    },
+    {
+        "name": "topology",
+        "trans": [
+            "\u62d3\u6251"
+        ]
+    },
+    {
+        "name": "schema",
+        "trans": [
+            "\u6a21\u5f0f"
+        ]
+    },
+    {
+        "name": "strict",
+        "trans": [
+            "\u4e25\u683c"
+        ]
+    },
+    {
+        "name": "producer",
+        "trans": [
+            "\u751f\u4ea7\u8005"
+        ]
+    },
+    {
+        "name": "consumer",
+        "trans": [
+            "\u6d88\u8d39\u8005"
+        ]
+    },
+    {
+        "name": "queue",
+        "trans": [
+            "\u961f\u5217"
+        ]
+    },
+    {
+        "name": "stack",
+        "trans": [
+            "\u6808"
+        ]
+    },
+    {
+        "name": "distributed",
+        "trans": [
+            "\u5206\u5e03\u5f0f"
+        ]
+    },
+    {
+        "name": "singleton",
+        "trans": [
+            "\u5355\u4f8b"
+        ]
+    },
+    {
+        "name": "observer",
+        "trans": [
+            "\u89c2\u5bdf\u8005"
+        ]
+    },
+    {
+        "name": "subscribe",
+        "trans": [
+            "\u8ba2\u9605"
+        ]
+    },
+    {
+        "name": "decorator",
+        "trans": [
+            "\u88c5\u9970\u5668"
+        ]
+    },
+    {
+        "name": "strategy",
+        "trans": [
+            "\u7b56\u7565"
+        ]
+    },
+    {
+        "name": "adapter",
+        "trans": [
+            "\u9002\u914d\u5668"
+        ]
+    },
+    {
+        "name": "command",
+        "trans": [
+            "\u547d\u4ee4"
+        ]
+    },
+    {
+        "name": "iterator",
+        "trans": [
+            "\u8fed\u4ee3\u5668"
+        ]
+    },
+    {
+        "name": "proxy",
+        "trans": [
+            "\u4ee3\u7406"
+        ]
+    },
+    {
+        "name": "prototype",
+        "trans": [
+            "\u539f\u578b"
+        ]
+    },
+    {
+        "name": "factory",
+        "trans": [
+            "\u5de5\u5382"
+        ]
+    },
+    {
+        "name": "abstract",
+        "trans": [
+            "\u62bd\u8c61"
+        ]
+    },
+    {
+        "name": "bridge",
+        "trans": [
+            "\u6865\u63a5"
+        ]
+    },
+    {
+        "name": "chain",
+        "trans": [
+            "\u94fe\u6761"
+        ]
+    },
+    {
+        "name": "responsibility",
+        "trans": [
+            "\u8d23\u4efb"
+        ]
+    },
+    {
+        "name": "injection",
+        "trans": [
+            "\u6ce8\u5165"
+        ]
+    },
+    {
+        "name": "initialization",
+        "trans": [
+            "\u521d\u59cb\u5316"
+        ]
+    },
+    {
+        "name": "acquisition",
+        "trans": [
+            "\u83b7\u53d6"
+        ]
+    },
+    {
+        "name": "composite",
+        "trans": [
+            "\u5408\u6210\u7684"
+        ]
+    },
+    {
+        "name": "hybrid",
+        "trans": [
+            "\u6742\u4ea4\u79cd"
+        ]
+    },
+    {
+        "name": "flyweight",
+        "trans": [
+            "\u4eab\u5143"
+        ]
+    },
+    {
+        "name": "interpreter",
+        "trans": [
+            "\u89e3\u91ca\u5668"
+        ]
+    },
+    {
+        "name": "mediator",
+        "trans": [
+            "\u4e2d\u4ecb\u8005"
+        ]
+    },
+    {
+        "name": "scheduler",
+        "trans": [
+            "\u8c03\u5ea6\u5668"
+        ]
+    },
+    {
+        "name": "monads",
+        "trans": [
+            "\u5355\u5b50"
+        ]
+    },
+    {
+        "name": "functors",
+        "trans": [
+            "\u51fd\u5b50"
+        ]
+    },
+    {
+        "name": "monoids",
+        "trans": [
+            "\u5e7a\u534a\u7fa4"
+        ]
+    },
+    {
+        "name": "aggregate",
+        "trans": [
+            "\u805a\u5408"
+        ]
+    },
+    {
+        "name": "success",
+        "trans": [
+            "\u6210\u529f"
+        ]
+    },
+    {
+        "name": "failure",
+        "trans": [
+            "\u5931\u8d25"
+        ]
+    },
+    {
+        "name": "sequential",
+        "trans": [
+            "\u8fde\u7eed\u7684"
+        ]
+    },
+    {
+        "name": "consequent",
+        "trans": [
+            "\u8fde\u7eed\u7684"
+        ]
+    },
+    {
+        "name": "subsequent",
+        "trans": [
+            "\u968f\u540e\u7684"
+        ]
+    },
+    {
+        "name": "consensus",
+        "trans": [
+            "\u5171\u8bc6"
+        ]
+    },
+    {
+        "name": "skeleton",
+        "trans": [
+            "\u9aa8\u67b6"
+        ]
+    },
+    {
+        "name": "proceed",
+        "trans": [
+            "\u5904\u7406"
+        ]
+    },
+    {
+        "name": "multiple",
+        "trans": [
+            "\u591a\u4e2a"
+        ]
+    },
+    {
+        "name": "corresponding",
+        "trans": [
+            "\u76f8\u5e94\u7684"
+        ]
+    },
+    {
+        "name": "purpose",
+        "trans": [
+            "\u76ee\u7684"
+        ]
+    },
+    {
+        "name": "encountered",
+        "trans": [
+            "\u906d\u9047"
+        ]
+    },
+    {
+        "name": "counter",
+        "trans": [
+            "\u8ba1\u6570\u5668"
+        ]
+    },
+    {
+        "name": "register",
+        "trans": [
+            "\u5bc4\u5b58\u5668"
+        ]
+    },
+    {
+        "name": "mechanism",
+        "trans": [
+            "\u673a\u5236"
+        ]
+    },
+    {
+        "name": "reliable",
+        "trans": [
+            "\u53ef\u9760\u7684"
+        ]
+    },
+    {
+        "name": "somewhat",
+        "trans": [
+            "\u7a0d\u5fae"
+        ]
+    },
+    {
+        "name": "execute",
+        "trans": [
+            "\u6267\u884c"
+        ]
+    },
+    {
+        "name": "granularity",
+        "trans": [
+            "\u7c92\u5ea6"
+        ]
+    },
+    {
+        "name": "automate",
+        "trans": [
+            "\u81ea\u52a8\u5316"
+        ]
+    },
+    {
+        "name": "manual",
+        "trans": [
+            "\u624b\u52a8\u7684"
+        ]
+    },
+    {
+        "name": "perspective",
+        "trans": [
+            "\u89c2\u70b9"
+        ]
+    },
+    {
+        "name": "simulate",
+        "trans": [
+            "\u6a21\u62df"
+        ]
+    },
+    {
+        "name": "intervention",
+        "trans": [
+            "\u5e72\u9884"
+        ]
+    },
+    {
+        "name": "traceability",
+        "trans": [
+            "\u53ef\u8ffd\u6eaf\u6027"
+        ]
+    },
+    {
+        "name": "performed",
+        "trans": [
+            "\u6267\u884c"
+        ]
+    },
+    {
+        "name": "obtained",
+        "trans": [
+            "\u83b7\u5f97"
+        ]
+    },
+    {
+        "name": "separate",
+        "trans": [
+            "\u5206\u79bb"
+        ]
+    },
+    {
+        "name": "exchange",
+        "trans": [
+            "\u4ea4\u6362"
+        ]
+    },
+    {
+        "name": "gradually",
+        "trans": [
+            "\u9010\u6b65\u5730"
+        ]
+    },
+    {
+        "name": "relatively",
+        "trans": [
+            "\u76f8\u5bf9\u7684"
+        ]
+    },
+    {
+        "name": "bundle",
+        "trans": [
+            "\u5305"
+        ]
+    },
+    {
+        "name": "stable",
+        "trans": [
+            "\u7a33\u5b9a\u7684"
+        ]
+    },
+    {
+        "name": "relevant",
+        "trans": [
+            "\u76f8\u5173\u7684"
+        ]
+    },
+    {
+        "name": "facilitated",
+        "trans": [
+            "\u4fc3\u8fdb"
+        ]
+    },
+    {
+        "name": "discovery",
+        "trans": [
+            "\u53d1\u73b0"
+        ]
+    },
+    {
+        "name": "scenarios",
+        "trans": [
+            "\u573a\u666f"
+        ]
+    },
+    {
+        "name": "boundary",
+        "trans": [
+            "\u8fb9\u754c"
+        ]
+    },
+    {
+        "name": "actively",
+        "trans": [
+            "\u6d3b\u8dc3\u7684"
+        ]
+    },
+    {
+        "name": "enhancement",
+        "trans": [
+            "\u589e\u5f3a"
+        ]
+    },
+    {
+        "name": "draft",
+        "trans": [
+            "\u8349\u6848"
+        ]
+    },
+    {
+        "name": "proposal",
+        "trans": [
+            "\u63d0\u6848"
+        ]
+    },
+    {
+        "name": "authenticate",
+        "trans": [
+            "\u8ba4\u8bc1"
+        ]
+    },
+    {
+        "name": "further",
+        "trans": [
+            "\u66f4\u591a"
+        ]
+    },
+    {
+        "name": "empower",
+        "trans": [
+            "\u8d4b\u80fd"
+        ]
+    },
+    {
+        "name": "efficientive",
+        "trans": [
+            "\u6709\u6548\u7387\u7684"
+        ]
+    },
+    {
+        "name": "Probe",
+        "trans": [
+            "\u63a2\u9488"
+        ]
+    },
+    {
+        "name": "concern",
+        "trans": [
+            "\u5fe7\u8651"
+        ]
+    },
+    {
+        "name": "inform",
+        "trans": [
+            "\u901a\u77e5"
+        ]
+    },
+    {
+        "name": "quality",
+        "trans": [
+            "\u8d28\u91cf"
+        ]
+    },
+    {
+        "name": "priority",
+        "trans": [
+            "\u4f18\u5148\u7ea7"
+        ]
+    },
+    {
+        "name": "violation",
+        "trans": [
+            "\u8fdd\u53cd"
+        ]
+    },
+    {
+        "name": "vulnerabilities",
+        "trans": [
+            "\u6f0f\u6d1e"
+        ]
+    },
+    {
+        "name": "exposures",
+        "trans": [
+            "\u66b4\u9732"
+        ]
+    },
+    {
+        "name": "intake",
+        "trans": [
+            "\u6444\u5165"
+        ]
+    },
+    {
+        "name": "imperative",
+        "trans": [
+            "\u547d\u4ee4\u5f0f"
+        ]
+    },
+    {
+        "name": "declarative",
+        "trans": [
+            "\u58f0\u660e\u5f0f"
+        ]
+    },
+    {
+        "name": "terminology",
+        "trans": [
+            "\u672f\u8bed"
+        ]
+    },
+    {
+        "name": "arity",
+        "trans": [
+            "\u53c2\u6570\u6570\u91cf"
+        ]
+    },
+    {
+        "name": "closure",
+        "trans": [
+            "\u95ed\u5305"
+        ]
+    },
+    {
+        "name": "partial",
+        "trans": [
+            "\u90e8\u5206\u7684"
+        ]
+    },
+    {
+        "name": "currying",
+        "trans": [
+            "\u67ef\u91cc\u5316"
+        ]
+    },
+    {
+        "name": "composition",
+        "trans": [
+            "\u7ec4\u5408"
+        ]
+    },
+    {
+        "name": "continuation",
+        "trans": [
+            "\u5ef6\u7eed"
+        ]
+    },
+    {
+        "name": "purity",
+        "trans": [
+            "\u7eaf\u5ea6"
+        ]
+    },
+    {
+        "name": "idempotent",
+        "trans": [
+            "\u5e42\u7b49\u7684"
+        ]
+    },
+    {
+        "name": "predicate",
+        "trans": [
+            "\u8c13\u8bcd"
+        ]
+    },
+    {
+        "name": "category",
+        "trans": [
+            "\u8303\u7574"
+        ]
+    },
+    {
+        "name": "constant",
+        "trans": [
+            "\u5e38\u91cf"
+        ]
+    },
+    {
+        "name": "lift",
+        "trans": [
+            "\u63d0\u5347"
+        ]
+    },
+    {
+        "name": "referential",
+        "trans": [
+            "\u5f15\u7528"
+        ]
+    },
+    {
+        "name": "transparency",
+        "trans": [
+            "\u900f\u660e"
+        ]
+    },
+    {
+        "name": "equational",
+        "trans": [
+            "\u7b49\u5f0f"
+        ]
+    },
+    {
+        "name": "reasoning",
+        "trans": [
+            "\u63a8\u7406"
+        ]
+    },
+    {
+        "name": "methodology",
+        "trans": [
+            "\u65b9\u6cd5\u8bba"
+        ]
+    },
+    {
+        "name": "evaluation",
+        "trans": [
+            "\u4f30\u503c"
+        ]
+    },
+    {
+        "name": "morphism",
+        "trans": [
+            "\u8f6c\u6362\u8303\u7574"
+        ]
+    },
+    {
+        "name": "endomorphism",
+        "trans": [
+            "\u8f93\u5165\u7c7b\u578b\u4e0e\u8f93\u51fa\u7c7b\u578b\u76f8\u7b49"
+        ]
+    },
+    {
+        "name": "isomorphism",
+        "trans": [
+            "\u540c\u6784"
+        ]
+    },
+    {
+        "name": "setoid",
+        "trans": [
+            "\u9488\u5bf9\u540c\u79cd\u7c7b\u578b\u7684equal\u65b9\u6cd5"
+        ]
+    },
+    {
+        "name": "foldable",
+        "trans": [
+            "\u53ef\u6298\u53e0\u7684"
+        ]
+    },
+    {
+        "name": "algebraic",
+        "trans": [
+            "\u4ee3\u6570"
+        ]
+    },
+    {
+        "name": "passionate",
+        "trans": [
+            "\u6fc0\u5207\u7684"
+        ]
+    },
+    {
+        "name": "robust",
+        "trans": [
+            "\u9c81\u68d2\u6027"
+        ]
+    },
+    {
+        "name": "fault-tolerant",
+        "trans": [
+            "\u53ef\u5bb9\u9519\u7684"
+        ]
+    },
+    {
+        "name": "provision",
+        "trans": [
+            "\u90e8\u7f72"
+        ]
+    },
+    {
+        "name": "minimized",
+        "trans": [
+            "\u6700\u5c0f\u5316"
+        ]
+    },
+    {
+        "name": "stabilizing",
+        "trans": [
+            "\u7a33\u5b9a"
+        ]
+    },
+    {
+        "name": "determined",
+        "trans": [
+            "\u5224\u65ad"
+        ]
+    },
+    {
+        "name": "compatible",
+        "trans": [
+            "\u517c\u5bb9\u7684"
+        ]
+    },
+    {
+        "name": "scalable",
+        "trans": [
+            "\u53ef\u6269\u5c55\u7684"
+        ]
+    },
+    {
+        "name": "withstanded",
+        "trans": [
+            "\u7ecf\u53d7\u4f4f\u4e86"
+        ]
+    },
+    {
+        "name": "visualization",
+        "trans": [
+            "\u53ef\u89c6\u5316"
+        ]
+    },
+    {
+        "name": "indices",
+        "trans": [
+            "\u7d22\u5f15"
+        ]
+    },
+    {
+        "name": "obstacle",
+        "trans": [
+            "\u969c\u788d"
+        ]
+    },
+    {
+        "name": "eliminate",
+        "trans": [
+            "\u6392\u9664"
+        ]
+    },
+    {
+        "name": "trie",
+        "trans": [
+            "\u5b57\u5178\u6811"
+        ]
+    },
+    {
+        "name": "retrieval",
+        "trans": [
+            "\u53d6\u56de"
+        ]
+    },
+    {
+        "name": "shift reduce parser",
+        "trans": [
+            "\u79fb\u4f4d\u51cf\u5c11\u89e3\u6790\u5668"
+        ]
+    },
+    {
+        "name": "shunting yard algorithm",
+        "trans": [
+            "\u8c03\u8f66\u573a\u7b97\u6cd5"
+        ]
+    },
+    {
+        "name": "departure",
+        "trans": [
+            "\u79bb\u5f00"
+        ]
+    },
+    {
+        "name": "survey",
+        "trans": [
+            "\u6c11\u610f\u8c03\u67e5"
+        ]
+    },
+    {
+        "name": "associate",
+        "trans": [
+            "\u5173\u8054"
+        ]
+    },
+    {
+        "name": "graphical",
+        "trans": [
+            "\u56fe\u5f62"
+        ]
+    },
+    {
+        "name": "illustration",
+        "trans": [
+            "\u63d2\u56fe"
+        ]
+    },
+    {
+        "name": "length",
+        "trans": [
+            "\u957f\u5ea6"
+        ]
+    },
+    {
+        "name": "conscious",
+        "trans": [
+            "\u6709\u610f\u8bc6\u7684"
+        ]
+    },
+    {
+        "name": "anticipated",
+        "trans": [
+            "\u9884\u671f"
+        ]
+    },
+    {
+        "name": "illustrated",
+        "trans": [
+            "\u56fe\u793a"
+        ]
+    },
+    {
+        "name": "cardinal",
+        "trans": [
+            "\u7ea2\u8863\u4e3b\u6559"
+        ]
+    },
+    {
+        "name": "orthogonal",
+        "trans": [
+            "\u6b63\u4ea4"
+        ]
+    },
+    {
+        "name": "quadrant",
+        "trans": [
+            "\u8c61\u9650"
+        ]
+    },
+    {
+        "name": "formula",
+        "trans": [
+            "\u516c\u5f0f"
+        ]
+    },
+    {
+        "name": "autocomplete",
+        "trans": [
+            "\u81ea\u52a8\u8865\u5168"
+        ]
+    },
+    {
+        "name": "spell checker",
+        "trans": [
+            "\u62fc\u5199\u68c0\u67e5\u5668"
+        ]
+    },
+    {
+        "name": "heap",
+        "trans": [
+            "\u5806"
+        ]
+    },
+    {
+        "name": "nuances",
+        "trans": [
+            "\u7ec6\u5fae\u5dee\u522b"
+        ]
+    },
+    {
+        "name": "particular",
+        "trans": [
+            "\u7279\u5b9a"
+        ]
+    },
+    {
+        "name": "offense",
+        "trans": [
+            "\u7f6a\u884c"
+        ]
+    },
+    {
+        "name": "concise",
+        "trans": [
+            "\u7b80\u6d01\u7684"
+        ]
+    },
+    {
+        "name": "re-entrant",
+        "trans": [
+            "\u53ef\u91cd\u5165\u7684"
+        ]
+    },
+    {
+        "name": "periodic",
+        "trans": [
+            "\u5468\u671f\u6027\u7684"
+        ]
+    },
+    {
+        "name": "circuit breaker",
+        "trans": [
+            "\u65ad\u8def\u5668"
+        ]
+    },
+    {
+        "name": "polyglot",
+        "trans": [
+            "\u591a\u8bed\u8a00"
+        ]
+    },
+    {
+        "name": "jealous",
+        "trans": [
+            "\u5ac9\u5992\u7684"
+        ]
+    },
+    {
+        "name": "sustainability",
+        "trans": [
+            "\u53ef\u6301\u7eed\u6027"
+        ]
+    },
+    {
+        "name": "obsession",
+        "trans": [
+            "\u75f4\u8ff7"
+        ]
+    },
+    {
+        "name": "trajectory",
+        "trans": [
+            "\u8f68\u9053"
+        ]
+    },
+    {
+        "name": "gain",
+        "trans": [
+            "\u83b7\u5229"
+        ]
+    },
+    {
+        "name": "vector",
+        "trans": [
+            "\u5411\u91cf"
+        ]
+    },
+    {
+        "name": "sliding window",
+        "trans": [
+            "\u6ed1\u52a8\u7a97\u53e3"
+        ]
+    },
+    {
+        "name": "temporize",
+        "trans": [
+            "\u62d6\u5ef6"
+        ]
+    },
+    {
+        "name": "jitter",
+        "trans": [
+            "\u6296\u52a8"
+        ]
+    },
+    {
+        "name": "latency",
+        "trans": [
+            "\u65f6\u5ef6"
+        ]
+    },
+    {
+        "name": "greedy",
+        "trans": [
+            "\u8d2a\u5a6a"
+        ]
+    },
+    {
+        "name": "depth-first search",
+        "trans": [
+            "\u6df1\u5ea6\u4f18\u5148\u641c\u7d22"
+        ]
+    },
+    {
+        "name": "breadth-first search",
+        "trans": [
+            "\u5e7f\u5ea6\u4f18\u5148\u641c\u7d22"
+        ]
+    },
+    {
+        "name": "binary search",
+        "trans": [
+            "\u4e8c\u5206\u67e5\u627e"
+        ]
+    },
+    {
+        "name": "two pointers",
+        "trans": [
+            "\u53cc\u6307\u9488"
+        ]
+    },
+    {
+        "name": "bit manipulation",
+        "trans": [
+            "\u4f4d\u64cd\u4f5c"
+        ]
+    },
+    {
+        "name": "monotonic queue",
+        "trans": [
+            "\u5355\u8c03\u961f\u5217"
+        ]
+    },
+    {
+        "name": "geometry",
+        "trans": [
+            "\u51e0\u4f55\u5b66"
+        ]
+    },
+    {
+        "name": "momoization",
+        "trans": [
+            "\u8bb0\u5fc6\u5316"
+        ]
+    },
+    {
+        "name": "randomized",
+        "trans": [
+            "\u968f\u673a\u5316"
+        ]
+    },
+    {
+        "name": "combinatorics",
+        "trans": [
+            "\u7ec4\u5408\u5b66"
+        ]
+    },
+    {
+        "name": "brainteaser",
+        "trans": [
+            "\u8111\u7b4b\u6025\u8f6c\u5f2f"
+        ]
+    },
+    {
+        "name": "probability",
+        "trans": [
+            "\u6216\u7136\u7387"
+        ]
+    },
+    {
+        "name": "statistics",
+        "trans": [
+            "\u7edf\u8ba1\u5b66"
+        ]
+    },
+    {
+        "name": "eulerian circuit",
+        "trans": [
+            "\u6b27\u62c9\u8def\u5f84"
+        ]
+    },
+    {
+        "name": "radix sort",
+        "trans": [
+            "\u57fa\u6570\u6392\u5e8f"
+        ]
+    },
+    {
+        "name": "bucket sort",
+        "trans": [
+            "\u6876\u6392\u5e8f"
+        ]
+    },
+    {
+        "name": "line sweep",
+        "trans": [
+            "\u7ebf\u626b"
+        ]
+    },
+    {
+        "name": "biconnected component",
+        "trans": [
+            "\u53cc\u8fde\u901a\u5206\u91cf"
+        ]
+    },
+    {
+        "name": "prerequisites",
+        "trans": [
+            "\u5148\u51b3\u6761\u4ef6"
+        ]
+    },
+    {
+        "name": "conceptual",
+        "trans": [
+            "\u6982\u5ff5\u7684"
+        ]
+    },
+    {
+        "name": "refinement",
+        "trans": [
+            "\u6539\u8fdb"
+        ]
+    },
+    {
+        "name": "pledge",
+        "trans": [
+            "\u4fdd\u8bc1"
+        ]
+    }
+]

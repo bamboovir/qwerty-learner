@@ -15,7 +15,6 @@ services:
       - |
         echo 'run the bash command..'
         npm -v
-        npm config set registry https://registry.npm.taobao.org
         npm install -g yarn
         cd /app/qwerty-learner
         yarn install

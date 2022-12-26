@@ -5,15 +5,11 @@
 
 FROM node:14
 
-MAINTAINER sevenyoungairye<lel.ng.top@gmail.com>
-
 WORKDIR /app/qwerty-learner
 
 COPY package*.json .
 
 COPY yarn.lock .
-
-RUN npm config set registry https://registry.npm.taobao.org
 
 RUN npm install yarn -g --force
 
